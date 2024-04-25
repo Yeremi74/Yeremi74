@@ -43,8 +43,3 @@
 
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeremi74&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
-
-
-
-Last Edited on: 28/02/2023
