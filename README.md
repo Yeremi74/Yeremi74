@@ -10,7 +10,7 @@
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
 <!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> -->
@@ -23,7 +23,7 @@
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h3>Mis Estadisticas en Github</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
@@ -37,7 +37,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeremi74&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yeremigonzalez7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Yeremi González" height="30" width="40" /></a>
 
