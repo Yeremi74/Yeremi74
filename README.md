@@ -30,9 +30,14 @@ Me motiva trabajar en equipo, resolver problemas con creatividad y mantener siem
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeremi74&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yeremi75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yeremi74&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yeremi74&show_icons=true&theme=dark&locale=en" alt="Yeremi74" /></p>
 <br><br><br><br><br><br><br><br><br><br>
