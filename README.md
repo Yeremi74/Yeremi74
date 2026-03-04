@@ -1,11 +1,10 @@
-<h1 align="center">Hi , I'm Yeremi González <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola!, soy Yeremi González <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-¡Hola! Soy Yeremi 👋
 Comencé en la programación a los 18 años por una razón simple: me encanta crear. Para mí, el código es una forma de arte: transformar ideas en experiencias que las personas puedan usar y disfrutar.
 Soy principalmente autodidacta: gran parte de lo que sé lo he aprendido por mi cuenta, con curiosidad, disciplina y mucha práctica. Pero creo firmemente que el conocimiento gana valor cuando se comparte. Por eso, mi mayor satisfacción es devolver lo aprendido: apoyando a compañeros que se inician, intercambiando ideas o contribuyendo en proyectos con propósito.
 Me motiva trabajar en equipo, resolver problemas con creatividad y mantener siempre la curiosidad encendida. Estoy convencido de que la tecnología, bien usada, puede tener un impacto real en la vida de las personas.
