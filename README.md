@@ -35,9 +35,7 @@ Me motiva trabajar en equipo, resolver problemas con creatividad y mantener siem
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yeremi74&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yeremi74&show_icons=true&theme=dark&locale=en" alt="Yeremi74" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeremi74&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
