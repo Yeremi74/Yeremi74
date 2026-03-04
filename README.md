@@ -4,9 +4,9 @@
 
 
 
-Comencé en la programación a los 18 años por una razón simple: me encanta crear. Para mí, el código es una forma de arte: transformar ideas en experiencias que las personas puedan usar y disfrutar.<br/>
-Soy principalmente autodidacta: gran parte de lo que sé lo he aprendido por mi cuenta, con curiosidad, disciplina y mucha práctica. Pero creo firmemente que el conocimiento gana valor cuando se comparte. Por eso, mi mayor satisfacción es devolver lo aprendido: apoyando a compañeros que se inician, intercambiando ideas o contribuyendo en proyectos con propósito.<br/>
-Me motiva trabajar en equipo, resolver problemas con creatividad y mantener siempre la curiosidad encendida. Estoy convencido de que la tecnología, bien usada, puede tener un impacto real en la vida de las personas.<br/>
+Comencé en la programación a los 18 años por una razón simple: me encanta crear. Para mí, el código es una forma de arte: transformar ideas en experiencias que las personas puedan usar y disfrutar.<br/><br/>
+Soy principalmente autodidacta: gran parte de lo que sé lo he aprendido por mi cuenta, con curiosidad, disciplina y mucha práctica. Pero creo firmemente que el conocimiento gana valor cuando se comparte. Por eso, mi mayor satisfacción es devolver lo aprendido: apoyando a compañeros que se inician, intercambiando ideas o contribuyendo en proyectos con propósito.<br/><br/>
+Me motiva trabajar en equipo, resolver problemas con creatividad y mantener siempre la curiosidad encendida. Estoy convencido de que la tecnología, bien usada, puede tener un impacto real en la vida de las personas.<br/><br/>
 🤝 Si compartes estos valores, te apetece intercambiar ideas o simplemente quieres saludar, ¡escríbeme!
 📩 yyeremi15@gmail.com
 <br/><br/>
